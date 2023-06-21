@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay Rola.
-- 👀 I’m interested in data engineering and cyber security.
+- 👀 I’m interested in data engineering, web development and cyber security.
 - 🌱 I’m currently learning data engineering. Any advise is welcome.
 
 <!---
